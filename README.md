@@ -39,4 +39,4 @@ Qualquer dia desses eu pretendo rever o código pra alguns ajustes e se tiver pa
 # 👨‍💻 Autor 
 
 Meu nome é Luis Eduardo, no momento em que este texto está sendo escrito estou com meus 15 anos e aprendendo várias coisas sobre programação e desenvolvimento. Acompanhe meu GitHub por que pretendo postar mais coisas agora que aprendi a fazer os comandos basicos do Git. <br>
-Instagram: @_luisduardo.
+Instagram: @oluisedu.
